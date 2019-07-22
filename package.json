@@ -1,5 +1,5 @@
 {
-  "name": "qs-parser",
+  "name": "qs-parse",
   "version": "0.0.1",
   "description": "",
   "repository": {
@@ -10,7 +10,7 @@
   "keywords": [
     "qs",
     "querystring",
-    "qs-parser"
+    "qs-parse"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
