@@ -1,10 +1,10 @@
 {
-  "name": "qs-parse",
+  "name": "@aguezz/qs-parse",
   "version": "1.0.0",
-  "description": "",
+  "description": "QS-Parse merupakan sebuah library javascript yang bisa mengubah data object menjadi sebuah query pada URL. QS-Parse juga bisa mengubah query pada URL menjadi object.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Aguezz/qs-parse"
+    "url": "git+https://github.com/Aguezz/qs-parse.git"
   },
   "main": "index.js",
   "keywords": [
@@ -19,5 +19,6 @@
     "url": "https://github.com/Aguezz/qs-parse/issues"
   },
   "author": "Agus Stiawan (https://github.com/Aguezz)",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/Aguezz/qs-parse#readme"
 }
