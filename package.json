@@ -1,22 +1,22 @@
 {
-  "name": "qs-parse",
+  "name": "qs-parser",
   "version": "0.0.1",
   "description": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Aguezz/qs-parse"
+    "url": "https://github.com/Aguezz/qs-parser"
   },
   "main": "index.js",
   "keywords": [
     "qs",
     "querystring",
-    "qs-parse"
+    "qs-parser"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bugs": {
-    "url": "https://github.com/Aguezz/qs-parse/issues"
+    "url": "https://github.com/Aguezz/qs-parser/issues"
   },
   "author": "Agus Stiawan (https://github.com/Aguezz)",
   "license": "MIT"

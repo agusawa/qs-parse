@@ -1,21 +1,21 @@
-# QS-Parse
+# QS-Parser
 
 ## Description
 
-QS-Parse merupakan sebuah library javascript yang bisa mengubah data object menjadi sebuah query pada URL. QS-Parse juga bisa mengubah query pada URL menjadi object.
+QS-Parser merupakan sebuah library javascript yang bisa mengubah data object menjadi sebuah query pada URL. QS-Parser juga bisa mengubah query pada URL menjadi object.
 
 ## Installation
 
 ```bash
-npm i qs-parse
+npm i qs-parser
 # OR
-yarn add qs-parse
+yarn add qs-parser
 ```
 
 ## Usage
 
 ```javascript
-const qs = require('qs-parse');
+const qs = require('qs-parser');
 
 // Example data
 const data = {
