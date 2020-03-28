@@ -2,7 +2,7 @@
 
 ## Description
 
-QS-Parse merupakan sebuah library javascript yang bisa mengubah data object menjadi sebuah query pada URL. QS-Parse juga bisa mengubah query pada URL menjadi object.
+QS-Parse is a simple javascript library that can convert data **objects** into **queries on URLs**. QS-Parse can also convert **queries on URLs** into **objects** as well.
 
 ## Installation
 
