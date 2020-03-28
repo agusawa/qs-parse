@@ -7,9 +7,9 @@ QS-Parse merupakan sebuah library javascript yang bisa mengubah data object menj
 ## Installation
 
 ```bash
-npm i --save-dev qs-parse
+npm i @aguezz/qs-parse
 # OR
-yarn add qs-parse
+yarn add @aguezz/qs-parse
 ```
 
 ## Usage
