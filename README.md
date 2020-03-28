@@ -15,7 +15,7 @@ yarn add @aguezz/qs-parse
 ## Usage
 
 ```javascript
-const qs = require('qs-parse');
+const qs = require('@aguezz/qs-parse');
 
 // Example data
 const data = {
