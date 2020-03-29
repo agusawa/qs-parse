@@ -1,6 +1,6 @@
 {
   "name": "@aguezz/qs-parse",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "QS-Parse is a simple javascript library that can convert data objects into queries on URLs. QS-Parse can also convert queries on URLs into objects as well.",
   "repository": {
     "type": "git",
